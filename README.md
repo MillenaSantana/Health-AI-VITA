@@ -2,11 +2,19 @@
 
 <div align="center">
 
-# HEALTH AI
+<img 
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2CBF,50:4361EE,100:FF4FA3&height=180&section=header&text=HEALTH%20AI&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50"
+/>
+
+</div>
+
+<div align="center">
 
 ### Agente de Inteligência Artificial desenvolvido por meio de Engenharia de Prompt
 
 <br>
+
+<div align="center">
 
 <a href="https://healthassistantvita.ai.studio">
   <img src="https://img.shields.io/badge/ACESSAR_APLICAÇÃO-9D4EDD?style=for-the-badge&labelColor=1A1026"/>
